@@ -1,0 +1,34 @@
+p{
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.text{
+  text-align: center;
+  margin-top: 300px;
+  color: black;
+}
+
+
+.button-container{
+  text-align: center;
+}
+
+button{
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 8px;
+  margin-bottom: 10px;
+}
+
+.change-button{
+  background-color: red;
+}
+
+.recover-button{
+  background-color: black;
+}
